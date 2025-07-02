@@ -4,3 +4,4 @@ Proceso de desarrollo de software
 3. Implementación: Se programan las funciones.
 4. Testing: Se prueban todas las funcionalidades.
 5. Instalación y Mantenimiento: Se instala el software, en caso de ser necesario se realizan correcciones y mejoras.
+parcial avanzado
