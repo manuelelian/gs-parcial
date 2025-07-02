@@ -1,0 +1,6 @@
+Proceso de desarrollo de software
+1. Requisitos: Se definen todos los requerimientos del cliente.
+2. Diseño: Se estructura el sistema tanto la arquitectura como los detalles.
+3. Implementación: Se programan las funciones.
+4. Testing: Se prueban todas las funcionalidades.
+5. Instalación y Mantenimiento: Se instala el software, en caso de ser necesario se realizan correcciones y mejoras.
